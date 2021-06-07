@@ -2,8 +2,7 @@
 node_modules
 npm-debug.log
 
-# Local development
-*.env
+# Local developmen
 *.dev
 .DS_Store
 
