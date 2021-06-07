@@ -1,0 +1,8 @@
+{
+  "name": "Halo Mentor API",
+  "description": "CMS Halo Mentor API",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
